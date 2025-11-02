@@ -2,11 +2,6 @@
 
 This project is an implementation of a smart parking system using ESP32 and various sensors. It demonstrates real-time parking space monitoring, automated alerts, and I2C communication with LCD displays.
 
-## Example Videos
-
-* [Smart Parking Example 1](https://www.youtube.com/watch?v=-9s9QkpRzWs)
-* [Smart Parking Example 2](https://www.youtube.com/watch?v=dZ57WLIyS04)
-
 ## System Diagram
 
 ![System Diagram](https://user-images.githubusercontent.com/84501094/158832059-2c38246a-ee87-4d1b-a5ea-6ecb2f757b86.png)
